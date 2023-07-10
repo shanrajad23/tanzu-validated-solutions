@@ -785,7 +785,7 @@ The Tanzu Kubernetes Grid installer wizard is an easy way to deploy the cluster.
 
     **Note:** In Tanzu Kubernetes Grid v2.1.x, you can configure the network to separate the endpoint VIP network of the cluster from the external IP network of the load balancer service and the ingress service in the cluster. This feature lets you ensure the security of the clusters by providing you an option to expose the endpoint of your management or the workload cluster and the load balancer service and ingress service in the cluster, in different networks.
 
-    As per the Tanzu for Kubernetes Operations 2.1.x Reference Architecture, all the control plane endpoints connected to Tanzu Kubernetes Grid cluster VIP network and data plane networks are connected to the respective management data VIP network or workload data VIP network.
+    As per the Tanzu for Kubernetes Operations 2.3.x Reference Architecture, all the control plane endpoints connected to Tanzu Kubernetes Grid cluster VIP network and data plane networks are connected to the respective management data VIP network or workload data VIP network.
 
    - **Cloud Name:** Name of the cloud created while configuring NSX Advanced Load Balancer
      `sfo01w01vc01`.
