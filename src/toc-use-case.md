@@ -1,4 +1,4 @@
-# VMware Tanzu Use Case Documentation
+# Tanzu Use Case Documentation
 
 This is the table of contents from which the Tanzu Use Case Documentation site is built.
 
